@@ -1,2 +1,2 @@
 # todoListAPP-React.js
-Created with CodeSandbox
+A fancy application of todo-list in React.js
